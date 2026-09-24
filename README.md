@@ -1,12 +1,8 @@
 # gpt-image-2 API (gptimage2) — API guide with per-unit pricing
 
-<p align="center">
-  <img src="hero.jpg" width="820" alt="gpt-image-2 sample">
-</p>
-
 > **$0.0085 per 1K image** — the cheapest GPT Image route, flat per delivered image, $1 minimum top-up.
 
-**[Model page](https://apimart.ai/model/gpt-image-2)** · **[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Model page](https://go.apimart.ai/k-42ef17)** · **[Live pricing](https://go.apimart.ai/k-ce4836)** · **[Get an API key](https://go.apimart.ai/k-3955cd)**
 
 Everything on this page refers to **gpt-image-2** — also written **gptimage2**, **gpt image 2** or **gpt-image-2** — served through the OpenAI-compatible APIMart gateway at `https://api.apimart.ai/v1`.
 
