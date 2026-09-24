@@ -1,0 +1,13 @@
+{
+  "model": "gpt-image-2",
+  "alias": "gptimage2",
+  "variant": "api",
+  "snapshot": "2026-09-24",
+  "unit_prices": {
+    "1K": 0.0085,
+    "2K": 0.014,
+    "4K": 0.021
+  },
+  "source": "https://apimart.ai/en/pricing",
+  "links": {}
+}
